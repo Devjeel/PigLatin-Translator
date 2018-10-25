@@ -109,9 +109,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(651, 444);
+            this.Controls.Add(this.btnTranslate);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnClear);
-            this.Controls.Add(this.btnTranslate);
             this.Controls.Add(this.txtLatin);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
