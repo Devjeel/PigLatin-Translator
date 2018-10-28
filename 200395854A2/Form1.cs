@@ -42,7 +42,7 @@ namespace _200395854A2
             //If textbox is empty
             if (String.IsNullOrEmpty(EnglishText))
             {
-                MessageBox.Show("Please enter something you want to tanslate !!!");
+                MessageBox.Show("Please enter something you want to tanslate !!!", "Entry error");
                 return;
             }
 
